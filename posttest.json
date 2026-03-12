@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. Which step in the procedure ensures consistent foam formation across samples?",
+      "answers": {
+        "a": "Using an analytical balance",
+        "b": "Pouring water into the beakers",
+        "c": "Whipping the solutions for 2 minutes",
+        "d": "Measuring foam volume immediately"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. Why is foam volume measured after 60 minutes?",
+      "answers": {
+        "a": "To ensure accuracy in measurements",
+        "b": "To evaluate foam stability",
+        "c": "To check protein dissolution",
+        "d": "To remove impurities from the foam"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. What observation would indicate better foaming capacity?",
+      "answers": {
+        "a": "Smaller foam volume immediately after whipping",
+        "b": "Larger foam volume immediately after whipping",
+        "c": "Decrease in foam volume over 60 minutes",
+        "d": "No foam formation at all"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. What does a decrease in foam volume after 60 minutes indicate?",
+      "answers": {
+        "a": "Low foam stability",
+        "b": "High foam stability",
+        "c": "Poor protein solubility",
+        "d": "Excessive protein concentration"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. Which sample is likely to show the highest foam volume and stability?",
+      "answers": {
+        "a": "S1 (0.5 g protein isolate)",
+        "b": "S2 (1 g protein isolate)",
+        "c": "S4 (2 g protein isolate)",
+        "d": "S5 (2.5 g protein isolate)"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
+  ]
+}
